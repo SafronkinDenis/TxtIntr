@@ -3,7 +3,7 @@
 RELEASE_FLAGS = -O2 -Wall -DNDEBUG
 DEBUG_FLAGS   = -g -O0 -Wall
 RELEASE_EXEC  = Kalkulator
-DEBUG_EXEC    = Kakulator-dbg
+DEBUG_EXEC    = Kalkulator-dbg
 SOURCE        = Kalkulator.cpp
 
 all: debug release
